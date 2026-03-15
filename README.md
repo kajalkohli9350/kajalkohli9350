@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kajal Kohli</h1>
+<h3 align="center">B.Tech CSE Student | Web Development Enthusiast</h3>
 
-<!--
-**kajalkohli9350/kajalkohli9350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently learning ** Web Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I love building **projects and solving problems**
+
+🎓 B.Tech 2026 Batch
+
+---
+
+## 🚀 Technical Skills
+
+💻 Programming Languages  
+- Python  
+- C   
+- C++
+
+🌐 Web Development  
+- HTML  
+- CSS  
+- JavaScript  
+- React
+
+🗄️ Databases  
+- MySQL  
+- MongoDB
+
+⚙️ Tools  
+- Git  
+- GitHub  
+- VS Code  
+
+---
+
+
+## 🌐 Connect With Me
+
+LinkedIn: (linkedin.com/in/kajal-kohli-119866326)  
+GitHub: https://github.com/kajalkohli9350
+
+---
+
+⭐️ From [kajalkohli](https://github.com/kajalkohli9350)
