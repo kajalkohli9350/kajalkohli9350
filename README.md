@@ -7,7 +7,8 @@
 
 💻 I love building **projects and solving problems**
 
-🎓 B.Tech 2026 Batch
+🎓 B.Tech CSE | Class of 2026
+
 
 ---
 
